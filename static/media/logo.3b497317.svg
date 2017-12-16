@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Archive</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#fff" d="M53 20L39 6v14h14z"></path>
+  <path data-name="layer2" fill="#ebf5ff" d="M39 20V6h-8v26l-6-5-6 4.9V6h-8v56h42V20H39z"></path>
+  <path data-name="layer1" fill="#f27e7c" d="M31 2v30l-6-5-6 4.9V2h12z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M19 31.9V6h-3v28.9l6-4.9 6 5v-5.5L25 27l-6 4.9zM36 6v19h17v-5H39V6h-3z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M19 6h-8v56h42V20L39 6h-8" stroke-linejoin="miter"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M39 6v14h14M31 2v30l-6-5-6 4.9V2h12z"
+  stroke-linejoin="miter"></path>
+</svg>

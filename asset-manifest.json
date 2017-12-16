@@ -1,10 +1,18 @@
 {
-  "main.css": "static/css/main.c14d8ad9.css",
-  "main.css.map": "static/css/main.c14d8ad9.css.map",
-  "main.js": "static/js/main.91e10cdd.js",
-  "main.js.map": "static/js/main.91e10cdd.js.map",
+  "main.css": "static/css/main.ac0b9455.css",
+  "main.css.map": "static/css/main.ac0b9455.css.map",
+  "main.js": "static/js/main.e7348d3a.js",
+  "main.js.map": "static/js/main.e7348d3a.js.map",
+  "static/media/add.svg": "static/media/add.ab35d0cf.svg",
+  "static/media/chrome-extension--hero.png": "static/media/chrome-extension--hero.c5d49bfb.png",
   "static/media/close.svg": "static/media/close.e2aec168.svg",
   "static/media/enter-key.svg": "static/media/enter-key.c33c9467.svg",
+  "static/media/envelope.svg": "static/media/envelope.784a46b7.svg",
+  "static/media/exit.svg": "static/media/exit.05ca9a10.svg",
+  "static/media/install-step1.png": "static/media/install-step1.4750635a.png",
+  "static/media/install-step2.png": "static/media/install-step2.e553f946.png",
+  "static/media/lock.svg": "static/media/lock.b654c7a6.svg",
+  "static/media/logo.svg": "static/media/logo.3b497317.svg",
   "static/media/menu.svg": "static/media/menu.2a5bb233.svg",
   "static/media/reload.svg": "static/media/reload.e440f6e2.svg"
 }
