@@ -1,1 +1,0 @@
-# taggytag-chrome-extension

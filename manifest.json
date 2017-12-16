@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "TaggyTag",
+  "description": "TaggyTag chrome extension",
+  "version": "1.0",
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png"
+  },
+  "browser_action": {
+    "default_popup": "./index.html"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "activeTab",
+    "identity",
+    "http://localhost:3000/*",
+    "https://cson-metadata-extractor.herokuapp.com/*",
+    "https://api.graph.cool/*"
+  ]
+}
